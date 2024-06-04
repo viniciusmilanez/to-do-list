@@ -1,3 +1,1 @@
-# Projeto Lista de Tarefas
-
-Desafio do curso da Rocketseat
+Atividade Lista de tarefas Mobile
